@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m passionate about building innovative and sca
 
 ## 📫 How to reach me:
 
-- LinkedIn: [Matvey Aliev](www.linkedin.com/in/matvey-aliev)
+- LinkedIn: [Matvey Aliev](https://linkedin.com/in/matvey-aliev)
 - Twitter: [@matveyaliev](https://x.com/matveyaliev)
 - Telegram: [@matveyaliev](https://t.me/matveyaliev)
 
