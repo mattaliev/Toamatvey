@@ -1,26 +1,28 @@
-# Hi there, I'm Matvey Aliev 👋
+# Hi there, I'm Matt Aliev 👋
 
-👨‍💻 **Full-stack Engineer | SaaS Innovator**
+👨‍💻 **Full-stack Engineer | Building AI Agents**
 
 Welcome to my GitHub profile! I’m passionate about building innovative and scalable solutions, lately in the e-commerce space. Here’s a bit about me:
 
-- 🔨 **Creator of SupaStore**: A platform for building and managing stores on Telegram, complete with advanced SEO features, automated marketing, and a comprehensive admin panel.
-- 💻 **Tech Stack**: Proficient in Node.js, Django, Next.js, and Google Cloud, always eager to explore new technologies.
-- 🌟 **Innovative Solutions**: Continuously seeking to enhance user experiences and streamline business operations through cutting-edge technology.
+- 🌟 **Building MeduzaAI**: AI Agents for businesses and open-source tooling
+- 🔨 **Creator of Supastore**: A platform for building and managing stores on Telegram, complete with advanced SEO features, automated marketing, and a comprehensive admin panel.
+- 💻 **Tech Stack**: Proficient in Node.js, Django, Next.js, Vue.js, Kubernetes and Google Cloud, always eager to explore new technologies.
 
 ## 📫 How to reach me:
 
 - LinkedIn: [Matvey Aliev](https://linkedin.com/in/matvey-aliev)
-- Twitter: [@matveyaliev](https://x.com/matveyaliev)
+- Twitter: [@matveyaliev](https://x.com/mattaliev)
 - Telegram: [@matveyaliev](https://t.me/matveyaliev)
 
 ## 🚀 Projects:
 
-- [SupaStore](https://admin.ditch-concept.com): A comprehensive e-commerce solution for Telegram.
+- [Supastore](https://github.com/mattaliev/supastore): A comprehensive e-commerce solution for Telegram.
+- [Inventra](https://t.me/InventraBot): AI Agent for Inventory Management
 
 ## 🌱 Currently Learning:
 
-- AI and machine learning integration in SaaS platforms
+- AI Agent development best practices
+- Marketing and Sales
 
 Thanks for visiting my profile! Feel free to get in touch with me, always open for networking.
 
